@@ -1,3 +1,3 @@
 Test file for commiting changes
-for the challenge "COMMIT TO IT"
+for the challenge "Commit To It"
 in jlord\git-it repository
