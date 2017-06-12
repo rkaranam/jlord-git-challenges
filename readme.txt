@@ -1,3 +1,2 @@
-Test file for commiting changes
-for the challenge "Commit To It"
-in jlord\git-it repository
+All the challenges and solutions for the terminal node program
+"git-it" from jlord/git-it repository
